@@ -1,0 +1,6 @@
+{
+  // Must match your Worker's name in the Cloudflare dashboard
+  "name": "hockey-pick-helper1",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-01"
+}
